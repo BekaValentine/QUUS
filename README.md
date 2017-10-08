@@ -1,15 +1,15 @@
-                                             !!!
-                                            !!!!!
-   QQQ     UUU   UUU  UUU   UUU     SSSS    !!!!!
- QQQQQQQ   UUU   UUU  UUU   UUU   SSSSSSSS  !!!!!
-QQQ   QQQ  UUU   UUU  UUU   UUU  SSS        !!!!!
-QQQ   QQQ  UUU   UUU  UUU   UUU   SSSSSS    !!!!!
-QQQ   QQQ  UUU   UUU  UUU   UUU    SSSSSS    !!!
-QQQ   QQQ  UUU   UUU  UUU   UUU        SSS  
- QQQQQQQ    UUUUUUU    UUUUUUU   SSSSSSSS    !!!
-   QQQ        UUU        UUU       SSSS      !!!
-   QQQ
-    QQQ
+                                                 !!!
+                                                !!!!!
+       QQQ     UUU   UUU  UUU   UUU     SSSS    !!!!!
+     QQQQQQQ   UUU   UUU  UUU   UUU   SSSSSSSS  !!!!!
+    QQQ   QQQ  UUU   UUU  UUU   UUU  SSS        !!!!!
+    QQQ   QQQ  UUU   UUU  UUU   UUU   SSSSSS    !!!!!
+    QQQ   QQQ  UUU   UUU  UUU   UUU    SSSSSS    !!!
+    QQQ   QQQ  UUU   UUU  UUU   UUU        SSS  
+     QQQQQQQ    UUUUUUU    UUUUUUU   SSSSSSSS    !!!
+       QQQ        UUU        UUU       SSSS      !!!
+       QQQ
+        QQQ
 
 A Wittgensteinian game about regular expressions, made for the
 Noisebridge Perl Jam!
