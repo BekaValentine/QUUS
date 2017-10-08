@@ -2,8 +2,6 @@
 use feature "switch";
 no warnings;
 
-use Term::Cap;
-
 sub tagged {
   return {
     tag => $_[0],
